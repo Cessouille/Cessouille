@@ -1,5 +1,9 @@
 # Hi there, I'm Cessouille! 👋
 
+## 🚀 About me
+
+You can visit my [website](https://celianchausson.fr) to learn more about me.
+
 ## 💼 Skills & Technologies
 
 ### Languages
